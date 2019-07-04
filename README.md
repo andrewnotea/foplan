@@ -1,3 +1,4 @@
 # FOPLAN
 ## Інвестиційний експрес-аналіз проекту (стартапу) для малого та середнього бізнесу
-URL: http://foplan.com.ua
+
+Project URL: http://foplan.com.ua
